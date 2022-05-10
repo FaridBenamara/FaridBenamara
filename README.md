@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaridBenamara
 - 👀 I’m interested in Data Engineering / Cybersecurity / AI
 - 🌱 I’m currently learning Computer Sciences (Data Science Major)
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on Web / Data / BI / AI projects
 
 
 <!---
