@@ -1,9 +1,10 @@
+#EN
 - 👋 Hi, I’m @FaridBenamara
 - 👀 I’m interested in Data Engineering / Cybersecurity / AI
 - 🌱 I’m currently learning Computer Sciences (Data & IA Major)
 - 💞️ I’m looking to Internship on Web / Data / BI / AI 
 
-
+#FR
 - 👋 Holà , Je suis @FaridBenamara 
 - 💞️ Je m'intéresse à la Data / Cybersécurité / IA
 - 🌱 Je suis actuellement étudiant en Informatique spécialité Data & IA
